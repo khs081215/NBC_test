@@ -5,4 +5,5 @@ using namespace std;
 int main()
 {
     cout << "Helo World" << endl;
+    cout << "NBC_KTW Output Test" << endl;
 }
